@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
-    <option name="newTranslationDialogX" value="600" />
-    <option name="newTranslationDialogY" value="367" />
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogX" value="621" />
+    <option name="newTranslationDialogY" value="210" />
     <histories>
+      <item value="fark" />
+      <item value="difference" />
       <item value="elapsed" />
       <item value="elapsed ti" />
       <item value="elapsed time" />
