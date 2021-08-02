@@ -1,9 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="600" />
     <option name="newTranslationDialogY" value="367" />
     <histories>
+      <item value="elapsed" />
+      <item value="elapsed ti" />
+      <item value="elapsed time" />
+      <item value="geçen zaman" />
+      <item value="ellipse" />
+      <item value="Completed" />
       <item value="correlation" />
       <item value="Relationship" />
     </histories>
