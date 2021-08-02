@@ -1,0 +1,42 @@
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_METHODS" value="true" />
+    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
+    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
+  </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="23" />
+    <option name="FONT_FAMILY" value="saxMono" />
+  </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="Groovy" value="true" />
+        <entry key="HTML" value="true" />
+        <entry key="JAVA" value="false" />
+        <entry key="JSON" value="true" />
+        <entry key="ObjectiveC" value="true" />
+        <entry key="XHTML" value="true" />
+        <entry key="XML" value="true" />
+        <entry key="kotlin" value="true" />
+        <entry key="yaml" value="true" />
+      </map>
+    </option>
+    <option name="STRIP_TRAILING_SPACES" value="None" />
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
+</application>
