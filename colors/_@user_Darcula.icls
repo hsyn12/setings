@@ -3,7 +3,7 @@
     <property name="created">2021-08-02T13:31:00</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.22</property>
-    <property name="modified">2021-08-02T13:35:57</property>
+    <property name="modified">2021-08-02T16:58:25</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -31,6 +31,9 @@
       <value>
         <option name="FOREGROUND" value="b7c406" />
       </value>
+    </option>
+    <option name="public_KEYWORD">
+      <value />
     </option>
   </attributes>
 </scheme>
