@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="621" />
     <option name="newTranslationDialogY" value="210" />
     <histories>
+      <item value="inspector" />
       <item value="milliseconds" />
       <item value="miliseconds" />
       <item value="elapse" />
