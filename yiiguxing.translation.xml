@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="621" />
     <option name="newTranslationDialogY" value="210" />
     <histories>
+      <item value="Delegate" />
       <item value="prepare" />
       <item value="Clouds" />
       <item value="Cloud" />
@@ -28,6 +29,6 @@
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627912319445" />
+    <option name="lastTrimTime" value="1628670396083" />
   </component>
 </application>
