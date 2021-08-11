@@ -3,10 +3,20 @@
     <property name="created">2021-08-02T13:31:00</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.22</property>
-    <property name="modified">2021-08-02T16:58:25</property>
+    <property name="modified">2021-08-11T10:51:05</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
+    <option name="KOTLIN_INSTANCE_PROPERTY">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
+      </value>
+    </option>
+    <option name="KOTLIN_MUTABLE_VARIABLE">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="LOGCAT_ASSERT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff6b68" />
